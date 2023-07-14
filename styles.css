@@ -1,0 +1,41 @@
+body{
+    font-family: Montserrat;
+    background-color: aquamarine;
+}
+
+.header{
+    color:rgba(111, 230, 56, 0.5);
+    text-align: center ;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+h2{
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+    border: 2px solid rgb(111, 230, 56);
+    table-layout: fixed;
+}
+
+thead{
+    background-color: rgba(0, 0, 0, 0.4);
+    font-weight: bold;
+}
+
+th{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+td{
+    border: 1px solid black;
+    text-align: left;
+    padding: 15px;
+}
+
+footer{
+    text-align: right;
+}
